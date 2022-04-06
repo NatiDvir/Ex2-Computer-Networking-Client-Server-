@@ -1,0 +1,3 @@
+﻿  Server.cpp
+C:\Users\natanel\source\repos\Server\Server\Server.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Server.vcxproj -> C:\Users\natanel\source\repos\Server\Debug\Server.exe
